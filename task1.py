@@ -14,4 +14,3 @@ x = sum(3,4)
 
 #this should return a value of 12.5
 y = sum(11,1.5)
-print(x, y)
