@@ -7,3 +7,4 @@ If the boolean is False, then the larger number is the hypotenuse
 Return the missing side
 (2 points)
 """
+def hypotenuse(x, y):
