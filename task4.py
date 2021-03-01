@@ -7,3 +7,7 @@ Return False if the number is not an integer
 (2 points)
 """
 
+def isInteger(x):
+    y = isinstance(x, int)
+    return y 
+
